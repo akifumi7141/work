@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{6A5D27C4-28CD-77BC-2737-0EE131923C83}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/02_Script/GameManager/TitleButton.cs">
+    <Files>
+      <File FileName="Assets/02_Script/GameManager/TitleManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/02_Script/GameManager/TitleButton.cs" Line="866" Column="100" />
+      <File FileName="Assets/02_Script/GameManager/BattleManager.cs" Line="658" Column="22" />
+      <File FileName="Assets/02_Script/GAmeSystems/EnemyMove.cs" />
+      <File FileName="Assets/02_Script/Systems/TextController.cs" />
+      <File FileName="Assets/02_Script/Systems/LoginBonus.cs" />
+      <File FileName="Assets/Plugins/Easy Save 3/Scripts/ES3Prefab.cs" />
+      <File FileName="Assets/02_Script/GameManager/Title/languageButton.cs" Line="28" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8eb3777c-2851-4276-9b35-992505c8f7c1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
