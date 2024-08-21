@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{D00D45DF-DD1E-A80A-5EE0-7373DDCEA8A5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/02_Script/GameSystems/TitleMyButton.cs">
+    <Files>
+      <File FileName="Assets/02_Script/Systems/AspectCamera.cs" Line="21" Column="1" />
+      <File FileName="Assets/02_Script/GameManager/TitleManager.cs" Line="55" Column="26" />
+      <File FileName="Assets/02_Script/GameSystems/TitleMyButton.cs" Line="65" Column="61" />
+      <File FileName="Assets/02_Script/GameManager/GameManagerGengo.cs" Line="35" Column="33" />
+      <File FileName="Assets/02_Script/GameSystems/MyButton.cs" Line="83" Column="30" />
+      <File FileName="Assets/02_Script/Systems/ScoreScript.cs" Line="8" Column="41" />
+      <File FileName="Assets/02_Script/Systems/TimeScript.cs" Line="80" Column="19" />
+      <File FileName="Assets/02_Script/Ad/AdMobReward.cs" Line="1" Column="1" />
+      <File FileName="Assets/02_Script/GameSystems/LoginBonus.cs" Line="25" Column="50" />
+      <File FileName="Assets/02_Script/Ad/AdMob.cs" Line="5" Column="1" />
+      <File FileName="Assets/02_Script/GameManager/GoogleServiceManager.cs" Line="22" Column="19" />
+      <File FileName="Assets/leaderboardEraNameQuiz.cs" Line="28" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

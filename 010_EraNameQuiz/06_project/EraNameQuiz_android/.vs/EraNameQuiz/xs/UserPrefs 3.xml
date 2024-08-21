@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{D00D45DF-DD1E-A80A-5EE0-7373DDCEA8A5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/02_Script/Systems/ScoreScript.cs">
+    <Files>
+      <File FileName="Assets/02_Script/GameManager/TitleManager.cs" Line="55" Column="26" />
+      <File FileName="Assets/02_Script/GameSystems/TitleMyButton.cs" Line="1" Column="1" />
+      <File FileName="Assets/02_Script/GameManager/GameManagerGengo.cs" Line="44" Column="5" />
+      <File FileName="Assets/02_Script/GameSystems/MyButton.cs" Line="83" Column="30" />
+      <File FileName="Assets/02_Script/Systems/ScoreScript.cs" Line="120" Column="7" />
+      <File FileName="Assets/02_Script/Systems/TimeScript.cs" Line="80" Column="19" />
+      <File FileName="Assets/leaderboardEraNameQuiz.cs" Line="28" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

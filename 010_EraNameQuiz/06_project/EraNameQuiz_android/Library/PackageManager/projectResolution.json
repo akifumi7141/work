@@ -1,0 +1,344 @@
+{
+  "context": {
+    "projectPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Packages",
+    "unityVersion": "6000.0.0f1"
+  },
+  "inputs": [
+    "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Packages/manifest.json",
+    "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Packages/packages-lock.json"
+  ],
+  "outputs": {
+    "com.unity.2d.sprite@1.0.0": {
+      "name": "com.unity.2d.sprite",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.2d.sprite",
+      "fingerprint": "216517bd2e2a7fcaa844d439ca021688444112e8",
+      "editorCompatibility": "2019.2.0a1",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.2d.tilemap@1.0.0": {
+      "name": "com.unity.2d.tilemap",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.2d.tilemap",
+      "fingerprint": "ccde967581b04de3acf2f31982a540be1e65c703",
+      "editorCompatibility": "2019.2.0a1",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.ads@4.4.2": {
+      "name": "com.unity.ads",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.ads",
+      "fingerprint": "a7b997f68a1d40387ca4d33fc75578709c140a37",
+      "editorCompatibility": "2018.4.18f1",
+      "version": "4.4.2",
+      "source": "registry"
+    },
+    "com.unity.ai.navigation@2.0.0": {
+      "name": "com.unity.ai.navigation",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.ai.navigation",
+      "fingerprint": "f6367599281e08d75acc8229ad70ac03cfe57ac1",
+      "editorCompatibility": "2023.2.0a18",
+      "version": "2.0.0",
+      "source": "registry"
+    },
+    "com.unity.analytics@3.8.1": {
+      "name": "com.unity.analytics",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.analytics",
+      "fingerprint": "6cc66d58ac08950316d3b86a26c92187aca1ddb0",
+      "editorCompatibility": "2019.3.0a1",
+      "version": "3.8.1",
+      "source": "registry"
+    },
+    "com.unity.ext.nunit@2.0.5": {
+      "name": "com.unity.ext.nunit",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.ext.nunit",
+      "fingerprint": "60ef35ffd3cd5e2f5c8887a4a4ca6148854cd092",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "2.0.5",
+      "source": "registry"
+    },
+    "com.unity.ide.rider@3.0.28": {
+      "name": "com.unity.ide.rider",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.ide.rider",
+      "fingerprint": "7605a3979f4b0ed9100a7fcc2d6140ebc24fc251",
+      "editorCompatibility": "2019.2.6f1",
+      "version": "3.0.28",
+      "source": "registry"
+    },
+    "com.unity.ide.visualstudio@2.0.22": {
+      "name": "com.unity.ide.visualstudio",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.ide.visualstudio",
+      "fingerprint": "8140e851d83e922ca2021b04a89519de94ebe38c",
+      "editorCompatibility": "2019.4.25f1",
+      "version": "2.0.22",
+      "source": "registry"
+    },
+    "com.unity.ide.vscode@1.2.5": {
+      "name": "com.unity.ide.vscode",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.ide.vscode",
+      "fingerprint": "82e68656b7bdc5da8beb1fbaf1bb4ecf13456d51",
+      "editorCompatibility": "2019.2.0a12",
+      "version": "1.2.5",
+      "source": "registry"
+    },
+    "com.unity.purchasing@4.11.0": {
+      "name": "com.unity.purchasing",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.purchasing",
+      "fingerprint": "f859f6d81f2915c6fddfafb5cc276f841939e14b",
+      "editorCompatibility": "2020.3.0a1",
+      "version": "4.11.0",
+      "source": "registry"
+    },
+    "com.unity.test-framework@1.4.3": {
+      "name": "com.unity.test-framework",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.test-framework",
+      "fingerprint": "95d6b5d0cb7ec79b743d67718a706e5f344fb7f4",
+      "editorCompatibility": "2019.4.0a10",
+      "version": "1.4.3",
+      "source": "registry"
+    },
+    "com.unity.timeline@1.8.6": {
+      "name": "com.unity.timeline",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.timeline",
+      "fingerprint": "9ac0df085fa85d0d1f0b83dd933674497fd2774e",
+      "editorCompatibility": "2019.3.0a1",
+      "version": "1.8.6",
+      "source": "registry"
+    },
+    "com.unity.modules.accessibility@1.0.0": {
+      "name": "com.unity.modules.accessibility",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.modules.accessibility",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.ai@1.0.0": {
+      "name": "com.unity.modules.ai",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.modules.ai",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.androidjni@1.0.0": {
+      "name": "com.unity.modules.androidjni",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.modules.androidjni",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.animation@1.0.0": {
+      "name": "com.unity.modules.animation",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.modules.animation",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.assetbundle@1.0.0": {
+      "name": "com.unity.modules.assetbundle",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.modules.assetbundle",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.audio@1.0.0": {
+      "name": "com.unity.modules.audio",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.modules.audio",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.cloth@1.0.0": {
+      "name": "com.unity.modules.cloth",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.modules.cloth",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.director@1.0.0": {
+      "name": "com.unity.modules.director",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.modules.director",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.imageconversion@1.0.0": {
+      "name": "com.unity.modules.imageconversion",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.modules.imageconversion",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.imgui@1.0.0": {
+      "name": "com.unity.modules.imgui",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.modules.imgui",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.jsonserialize@1.0.0": {
+      "name": "com.unity.modules.jsonserialize",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.modules.jsonserialize",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.particlesystem@1.0.0": {
+      "name": "com.unity.modules.particlesystem",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.modules.particlesystem",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.physics@1.0.0": {
+      "name": "com.unity.modules.physics",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.modules.physics",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.physics2d@1.0.0": {
+      "name": "com.unity.modules.physics2d",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.modules.physics2d",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.screencapture@1.0.0": {
+      "name": "com.unity.modules.screencapture",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.modules.screencapture",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.terrain@1.0.0": {
+      "name": "com.unity.modules.terrain",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.modules.terrain",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.terrainphysics@1.0.0": {
+      "name": "com.unity.modules.terrainphysics",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.modules.terrainphysics",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.tilemap@1.0.0": {
+      "name": "com.unity.modules.tilemap",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.modules.tilemap",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.ui@1.0.0": {
+      "name": "com.unity.modules.ui",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.modules.ui",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.uielements@1.0.0": {
+      "name": "com.unity.modules.uielements",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.modules.uielements",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.umbra@1.0.0": {
+      "name": "com.unity.modules.umbra",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.modules.umbra",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unityanalytics@1.0.0": {
+      "name": "com.unity.modules.unityanalytics",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.modules.unityanalytics",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unitywebrequest@1.0.0": {
+      "name": "com.unity.modules.unitywebrequest",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.modules.unitywebrequest",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unitywebrequestassetbundle@1.0.0": {
+      "name": "com.unity.modules.unitywebrequestassetbundle",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unitywebrequestaudio@1.0.0": {
+      "name": "com.unity.modules.unitywebrequestaudio",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.modules.unitywebrequestaudio",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unitywebrequesttexture@1.0.0": {
+      "name": "com.unity.modules.unitywebrequesttexture",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.modules.unitywebrequesttexture",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unitywebrequestwww@1.0.0": {
+      "name": "com.unity.modules.unitywebrequestwww",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.modules.unitywebrequestwww",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.vehicles@1.0.0": {
+      "name": "com.unity.modules.vehicles",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.modules.vehicles",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.video@1.0.0": {
+      "name": "com.unity.modules.video",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.modules.video",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.vr@1.0.0": {
+      "name": "com.unity.modules.vr",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.modules.vr",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.wind@1.0.0": {
+      "name": "com.unity.modules.wind",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.modules.wind",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.xr@1.0.0": {
+      "name": "com.unity.modules.xr",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.modules.xr",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.subsystems@1.0.0": {
+      "name": "com.unity.modules.subsystems",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.modules.subsystems",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.hierarchycore@1.0.0": {
+      "name": "com.unity.modules.hierarchycore",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.modules.hierarchycore",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.ugui@2.0.0": {
+      "name": "com.unity.ugui",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.ugui",
+      "fingerprint": "b21c90d8c981b5e30d4b75543a22d55ed87b121c",
+      "editorCompatibility": "2019.2.0a1",
+      "version": "2.0.0",
+      "source": "builtin"
+    },
+    "com.unity.services.core@1.12.5": {
+      "name": "com.unity.services.core",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.services.core",
+      "fingerprint": "f76c6d6421f17682d87047bf65b1e27156c08d73",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "1.12.5",
+      "source": "registry"
+    },
+    "com.unity.services.analytics@5.1.1": {
+      "name": "com.unity.services.analytics",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.services.analytics",
+      "fingerprint": "3755d89791d460e409a5f582448867001b79821f",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "5.1.1",
+      "source": "registry"
+    },
+    "com.unity.nuget.newtonsoft-json@3.2.1": {
+      "name": "com.unity.nuget.newtonsoft-json",
+      "resolvedPath": "/Users/iwasaaki/Downloads/GAME/010_EraNameQuiz/06_project/EraNameQuiz_android/Library/PackageCache/com.unity.nuget.newtonsoft-json",
+      "fingerprint": "74deb55db2a0c29ddfda576608bcb86abbd13ee6",
+      "editorCompatibility": "2018.4.0a1",
+      "version": "3.2.1",
+      "source": "registry"
+    }
+  }
+}

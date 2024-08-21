@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{3A1C69D2-3B41-4563-4BEF-1A528D2E5539}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/02_Script/GameManager/GameManagerGengo.cs">
+    <Files>
+      <File FileName="Assets/02_Script/Ad/RewardedAds.cs" Line="74" Column="40" />
+      <File FileName="Assets/02_Script/Ad/AdsInitializer1.cs" Line="9" Column="28" />
+      <File FileName="Assets/02_Script/Ad/InterstitialAd.cs" Line="4" Column="28" />
+      <File FileName="Assets/02_Script/GameManager/TitleManager.cs" Line="4" Column="22" />
+      <File FileName="Assets/02_Script/GameManager/GameManagerGengo.cs" Line="96" Column="36" />
+      <File FileName="Assets/02_Script/GameSystems/MyButton.cs" />
+      <File FileName="Assets/02_Script/Systems/ScoreScript.cs" />
+      <File FileName="Assets/02_Script/Systems/TimeScript.cs" />
+      <File FileName="Assets/02_Script/GameSystems/TitleMyButton.cs" Line="76" Column="75" />
+      <File FileName="Assets/GooglePlayGames/com.google.play.games/Runtime/Scripts/ISocialPlatform/PlayGamesPlatform.cs" />
+      <File FileName="Assets/02_Script/Systems/PresentScript.cs" Line="30" Column="1" />
+      <File FileName="Assets/02_Script/GameSystems/CSVReader.cs" Line="12" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ae5f4a93-6377-4326-99f2-a641a281701a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
